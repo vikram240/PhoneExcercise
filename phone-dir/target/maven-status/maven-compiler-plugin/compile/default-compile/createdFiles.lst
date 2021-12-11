@@ -1,0 +1,8 @@
+com/phone/demo/PhoneDirApplication.class
+com/phone/demo/application/dto/PhoneRequest.class
+com/phone/demo/config/BasicSecurityConfiguration.class
+com/phone/demo/application/service/PhoneService.class
+com/phone/demo/infrastructure/repo/entity/Phone.class
+com/phone/demo/infrastructure/repo/PhoneJPAConfig.class
+com/phone/demo/infrastructure/repo/PhoneRepository.class
+com/phone/demo/application/api/PhoneDirController.class
